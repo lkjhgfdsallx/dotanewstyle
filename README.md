@@ -1,5 +1,4 @@
 # Node.js + Vue.js 全栈开发DotaNewstyle的手机端和管理后台
-> Vue.js+Node.js+Mongodb+Express的前后端分离的个人博客
 
 ## 主要技术构成
 前端主要技术栈为vue.js、vue-router、scss 
